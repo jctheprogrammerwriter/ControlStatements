@@ -3,6 +3,8 @@
 import DieRollMod;
 
 int main() {
-    fmt::println("roll"
+    fmt::println("Dice roll: {}", roll());
+    std::cin.get();
+
     return 0;
 }
