@@ -49,7 +49,6 @@ fabric.properties
 *.app
 vcpkg-manifest-install.log
 vcpkg_installed/
-CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
